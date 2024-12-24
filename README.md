@@ -11,6 +11,6 @@ This project demonstrates the automation of key functionalities of an e-commerce
 ## Tools and Technologies
 - **Automation Framework:** Selenium with TestNG
 - **Programming Language:** Java
-- **Testing Frameworks:** TestNG,DataProviders
+- **Testing Frameworks:** TestNG, DataProviders
 - **Reporting:** JUnit Reports
-- **Documentation:** Test Plan,Requirement Traceability Matrix(RTM),Test Cases,Bug Report,Test Metrics
+- **Documentation:** Test Plan, Requirement Traceability Matrix(RTM), Test Cases, Bug Report, Test Metrics
